@@ -5,7 +5,7 @@ ADB，即 [Android Debug Bridge](https://developer.android.com/studio/command-li
 持续更新中，欢迎补充指正，觉得有用的可以将 [此 GitHub 仓库](https://github.com/mzlogin/awesome-adb) Star 收藏备用。
 
 **注：**有部分命令的支持情况可能与 Android 系统版本及定制 ROM 的实现有关。
-
+[pokefortress](http://www.pokefortress.com/)
 # ![Table of Contents](./assets/toc.png)
 
 * [基本用法](#基本用法)
@@ -1088,7 +1088,7 @@ adb shell getprop ro.product.model
 ```sh
 Nexus 5
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 ### 电池状况
 
 命令：
@@ -1544,7 +1544,7 @@ adb reboot
 ```sh
 adb reboot bootloader
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 ### 通过 sideload 更新系统
 
 如果我们下载了 Android 设备对应的系统更新包到电脑上，那么也可以通过 adb 来完成更新。
@@ -1677,7 +1677,7 @@ Usage: top [ -m max_procs ] [ -n iterations ] [ -d delay ] [ -s sort_column ] [ 
 | ps    | 查看正在运行的进程          |
 | rm    | 删除文件                    |
 | top   | 查看进程的资源占用情况      |
-
+[pokefortress](http://www.pokefortress.com/)
 ## 参考链接
 
 * [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html)
